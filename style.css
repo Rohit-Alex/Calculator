@@ -1,13 +1,15 @@
 button {
-    background-color: rgb(87, 171, 209);
-    height: 66px;
-    width: 55px;
+    background-color: rgb(8 9 9);
+    height: 58px;
+    margin-top: 5px;
+    width: 59px;
     border-style: ridge;
     border-radius: 14px;
     color: rgb(240, 177, 41);
     font-family: 'Calisto MT', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 2em;
     font-weight: 800;
+    text-align: center;
 }
 #container {
     height: 300px;
@@ -16,24 +18,25 @@ button {
     margin: auto;
 }
 #clear{
-    background-color: rgb(196, 104, 154);
+    background-color: rgb(8 9 9);
     border-radius: 14px;
     height: 56px;
     width: 92px;
 }
 body{
-    background-color: rgb(217, 229, 147);
+    background-color: rgb(97 99 87);
     text-align: center;
 }
 
 #input{
-    width: 231px;
-    height: 54px;
+    width: 244px;
+    height: 59px;
     border-radius: 21px;
     font-size: 2em;
-    margin-bottom: 10px
+    margin-bottom: 6px;
 }
 h1 {
-    color: rgb(165, 51, 51);
+    margin-top: 36px;
+    color: rgb(130 183 227);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
